@@ -61,3 +61,9 @@ Temperature schedule ensures eventual convergence to global minimum via ergodici
 
 ## License
 MIT
+
+## 📸 Visual Tour
+
+![score progression](viz/score_progression.png)
+
+---
